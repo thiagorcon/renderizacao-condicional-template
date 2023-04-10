@@ -24,7 +24,7 @@ export const Input = styled.input`
 `;
 
 export const SendButton = styled.button`
-  background-color: #ff4400;
+  background-color: #ff9421;
   border-radius: 8px;
   padding: 16px;
   width: 200px;
@@ -32,6 +32,7 @@ export const SendButton = styled.button`
   color: white;
   margin-top: 32px;
   cursor: pointer;
+  font-weight: bold;
 `;
 
 export const RegisterButton = styled.button`
