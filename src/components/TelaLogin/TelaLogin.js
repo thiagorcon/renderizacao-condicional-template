@@ -3,11 +3,11 @@ import { Form, FormContainer, Input, SendButton, StyledLabel, RegisterButton } f
 function TelaLogin() {
   const login = () => {
     // validação de login ainda será visto mais pra frente no curso
-    alert("Login bem sucedido, mas falta fazer a prática 2 e remover esse alerta")
+    alert("Login bem sucedido, mas falta fazer a prática 3 e remover esse alerta")
   }
 
   const mostrarTelaCadastro = () => {
-    alert("Faça a prática 1 e remova esse alerta")
+    alert("Faça a prática 2 e remova esse alerta")
   }
 
   return (
